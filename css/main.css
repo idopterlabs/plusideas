@@ -1,5 +1,10 @@
-div.logo img {
-  position: absolute;
-  top: 0; bottom:0; left: 0; right:0;
-  margin: auto;
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.social-icon {
+  margin-top: 15px;
+  width: 60%;
 }
