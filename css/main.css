@@ -29,6 +29,10 @@ img.social-icon {
   width: 70%;
 }
 
+.pascoa-credits ul {
+  list-style: none;
+}
+
 .social ul {
   display:table-row;
 }
@@ -53,6 +57,10 @@ img.social-icon {
   margin-top: 50px;
 }
 
-.pascoa-footer {
+.pascoa-credits {
   margin-top: 100px;
+}
+
+.pascoa-footer {
+  margin-top: 80px;
 }
