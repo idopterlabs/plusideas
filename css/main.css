@@ -1,3 +1,13 @@
+.pascoa h3,
+.pascoa-footer h3 {
+  color: #616f85;
+  line-height: 1.5em;
+}
+
+.pascoa-footer h3 span {
+  color: #4e4b98;
+}
+
 section.slider {
   margin-top: 80px;
 }
@@ -7,6 +17,8 @@ footer {
 }
 
 .center {
+  color: #ccccc;
+  text-align: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -14,5 +26,33 @@ footer {
 
 img.social-icon {
   margin-top: 15px;
-  width: 60%;
+  width: 70%;
+}
+
+.social ul {
+  display:table-row;
+}
+
+.social ul li {
+  display: table-cell;
+  height: 100px;
+  list-style-type: none;
+  margin: 10px;
+  vertical-align: middle;
+}
+.social ul li a {
+  padding: 10px;
+  display:table-cell;
+  vertical-align: middle;
+  height:100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pascoa {
+  margin-top: 50px;
+}
+
+.pascoa-footer {
+  margin-top: 100px;
 }
